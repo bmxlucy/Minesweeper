@@ -1,0 +1,13 @@
+[
+  {
+    "key": "tab",
+    "command": "editor.action.inlineSuggest.acceptNextLine",
+    "when": "inlineSuggestionVisible && !editorReadonly && !suggestWidgetVisible"
+  },
+  {
+    "key": "ctrl+shift+right",
+    "command": "editor.action.inlineSuggest.acceptNextLine",
+    "when": "inlineSuggestionVisible && !editorReadonly"
+  }
+]
+
