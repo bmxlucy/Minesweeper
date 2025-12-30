@@ -26,3 +26,5 @@ function startGame() {
         board.push(row);
     }
 }
+
+function placeMines() {
